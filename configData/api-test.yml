@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8889}
+
+message: api-test configuration server is alive
